@@ -1,0 +1,7 @@
+.container {
+    background: url(/images/bg1.webp);
+    background-color: #eeeeee;
+    margin: auto;
+    max-width: 900px;
+    font-family: sans-serif;
+}

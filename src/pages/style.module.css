@@ -1,0 +1,20 @@
+.main {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: ../images/bg1.webp;
+}
+
+.menu {
+    background-color: #aaeeaa;
+}
+
+.header {
+    background-color: #eeeeaa;
+}
+
+.blocks {
+    background-color: #eeaaaa;
+}
+
+.contacts {
+    background-color: #aaaaaa;
+}
